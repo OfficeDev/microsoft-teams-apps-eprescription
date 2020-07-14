@@ -4,7 +4,7 @@ products:
 - Power Apps
 - Power Automate
 - SharePoint
-description: ToDo
+description: E-Prescriptions uses the Booking app to make appointments during which doctors can generate e-prescriptions and email them to the consulting patients.
 urlFragment: microsoft-teams-apps-eprescription
 ---
 
