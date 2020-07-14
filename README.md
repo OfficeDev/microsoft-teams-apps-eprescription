@@ -17,19 +17,12 @@ Many hospitals and healthcare institutes perform tele-consultation or virtual co
 
 This app is designed to automate the process of sending prescriptions to patients in an electronic format without any manual intervention from admins. Doctors can pull up their appointment details and quickly generate an e-prescription for each appointment which lands in a patient’s inbox.
 
-Here is a high-level overview of the app.
+Here is a high-level overview of the app:
 
-Admins can manage e-prescriptions through an admin app including management of doctor records and e-prescription format.
+1. Admins can manage e-prescriptions through an admin app including management of doctor records and e-prescription format.
+  ![Welcome page](https://github.com/OfficeDev/microsoft-teams-apps-eprescription/wiki/images/DoctorDatabase.PNG)
 
- 
-
-![Welcome page](https://github.com/OfficeDev/microsoft-teams-apps-eprescription/wiki/images/DoctorDatabase.PNG)
-
-Doctors can view all appointments for a day in a single list view.
-For each appointment, an e-prescription can be filled out, previewed and then sent as an email to the patient along with any attachments.
-Doctors can also view the generated e-prescriptions.
-
-
+2. Doctors can view all appointments for a day in a single list view. For each appointment, an e-prescription can be filled out, previewed and then sent as an email to the patient along with any attachments. The doctors can also view the generated e-prescriptions.
 ![Consult page](https://github.com/OfficeDev/microsoft-teams-apps-eprescription/wiki/images/Consult.PNG)
 
 ## Legal notice
