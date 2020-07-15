@@ -13,9 +13,9 @@ urlFragment: microsoft-teams-apps-eprescription
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-eprescription/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-eprescription/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-eprescription/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
 
-Many hospitals and healthcare institutes perform tele-consultation or virtual consults so that doctors can connect with patients remotely. Each appointment results in a prescription being generated. Unlike physical appointments that enable doctors or admins to hand out physical prescriptions to patients, a virtual consult makes this process challenging since admins need to capture prescriptions details from doctors and send these to patients.
+Hospitals and healthcare institutions are increasingly performing tele-consultation or virtual consults so that doctors can connect with patients remotely. Each appointment results in a prescription being generated. Unlike physical appointments that enable doctors or admins to hand out physical prescriptions to patients, a virtual consult makes this process challenging since admins need to capture prescriptions details from doctors and send these to patients.
 
-This app is designed to automate the process of sending prescriptions to patients in an electronic format without any manual intervention from admins. Doctors can pull up their appointment details and quickly generate an e-prescription for each appointment which lands in a patient’s inbox.
+The E-prescriptions app is designed to automate the process of sending prescriptions to patients in an electronic format without any manual intervention from admins. Doctors can pull up their appointment details and quickly generate an e-prescription for each appointment which lands in a patient’s email inbox.
 
 Here is a high-level overview of the app:
 
@@ -29,13 +29,18 @@ Here is a high-level overview of the app:
 
 This app template is provided under the [MIT License](https://github.com/OfficeDev/microsoft-teams-apps-eprescription/blob/master/LICENSE) terms.  In addition to these terms, by using this app template you agree to the following:
 
--	You are responsible for complying with all applicable privacy and security regulations related to use, collection and handling of any personal data by your app.  This includes complying with all internal privacy and security policies of your organization if your app is developed to be sideloaded internally within your organization.
+- You, not Microsoft, will license the use of your app to users or organizations.
 
--	Where applicable, you may be responsible for data related incidents or data subject requests for data collect through your app.
+- You understand this app template is not intended to substitute your own regulatory due diligence or make you or your app compliant with applicable regulations including but not limited to privacy, healthcare, employment, and financial regulations.
+
+- You are responsible for complying with all applicable privacy and security regulations including those related to use, collection and handling of any personal data by your app.  This includes complying with all internal privacy and security policies of your organization if your app is developed to be sideloaded internally within your organization.
+
+- Where applicable, you may be responsible for data related incidents or data subject requests for data collected through your app.
 
 -	Any trademarks or registered trademarks of Microsoft in the United States and/or other countries and logos included in this repository are the property of Microsoft, and the license for this project does not grant you rights to use any Microsoft names, logos or trademarks outside of this repository.  Microsoft’s general trademark guidelines can be found [here](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx).
 
 -	Use of this template does not guarantee acceptance of your app to the Teams app store.  To make this app available in the Teams app store, you will have to comply with the [submission and validation process](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish), and all associated requirements such as including your own privacy statement and terms of use for your app.
+
 
 
 ## Getting started
